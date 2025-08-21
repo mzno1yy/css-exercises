@@ -43,4 +43,6 @@ body {
 
 .info {
   max-width: 200px;
+  margin: 52px;
+  align-items: center;
 }
